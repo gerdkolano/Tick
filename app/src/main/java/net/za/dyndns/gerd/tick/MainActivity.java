@@ -1,15 +1,23 @@
 /*
 * Kopiere das Verzeichnis Scheduler nach Tick
 *  Benenne in den Java-Programm-Dateien
-*    package net.za.dyndns.gerd.scheduler um in
-*    package net.za.dyndns.gerd.tick um
-*    Benenne i AndroidManifest
+*    package net.za.dyndns.gerd.scheduler
+*  um in
+*    package net.za.dyndns.gerd.tick
+*  Benenne in AndroidManifest
 *      package="net.za.dyndns.gerd.scheduler"
-*    um in
+*  um in
 *      package="net.za.dyndns.gerd.tick"
-*  Benenne das Verzeichnis scheduler um
-*   /data6/AndroidStudioProjects/Tick/app/src/main/java/net/za/dyndns/gerd/scheduler/
-*   /data6/AndroidStudioProjects/Tick/app/src/main/java/net/za/dyndns/gerd/tick
+*  Benenne das Verzeichnis scheduler
+*    /data6/AndroidStudioProjects/Tick/app/src/main/java/net/za/dyndns/gerd/scheduler/
+*  um in tick
+*    /data6/AndroidStudioProjects/Tick/app/src/main/java/net/za/dyndns/gerd/tick
+*  Benenne in
+*    /data6/AndroidStudioProjects/Tick/app/build.gradle
+*      applicationId "net.za.dyndns.gerd.scheduler"
+*  um in
+*      applicationId "net.za.dyndns.gerd.tick"
+*
 */
 
 /*

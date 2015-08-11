@@ -40,8 +40,6 @@
             </intent-filter>
         </receiver>
         <service android:name=".SchedulingService" />
-        <service android:name=".Sprecher" />
-        <service android:name=".StoszAn" />
     </application>
 
 </manifest>
